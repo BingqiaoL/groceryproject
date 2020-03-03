@@ -14,7 +14,7 @@ export default {
   data(){
     return{
         
-        copyRtSymbol:'&copy;BT3103 Problem 2'
+        copyRtSymbol:'&copy;BT3103 with changes'
         }
   }
 }
